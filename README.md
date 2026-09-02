@@ -208,8 +208,8 @@ Average reward over last 1000 episodes:
 
 ## Result
 
-
 The SARSA control algorithm was successfully implemented using the Gymnasium FrozenLake-v1 environment. The agent learned the Q-values through repeated interaction with the environment using the SARSA update rule and an epsilon-greedy policy. The learned Q-table was then used to obtain the state-value function and the learned policy.
+
 ---
 
 ## Inference
